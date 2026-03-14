@@ -1,39 +1,15 @@
 {
   "games": [
     {
-      "id": "d935250226e658edb6e7a0f1eaf4edea",
-      "home_team": "Portland Trail Blazers",
-      "away_team": "Utah Jazz",
-      "commence_time": "2026-03-14T02:12:00Z",
-      "home_ml": -3335,
-      "away_ml": 1100,
-      "home_spread": -14.5,
-      "away_spread": 14.5,
-      "total": 243.5,
-      "n_books": 6
-    },
-    {
-      "id": "8f70af8b76f27c4f0a7a6957464edf9d",
-      "home_team": "Golden State Warriors",
-      "away_team": "Minnesota Timberwolves",
-      "commence_time": "2026-03-14T02:13:00Z",
-      "home_ml": 1800,
-      "away_ml": -6500,
-      "home_spread": 19.5,
-      "away_spread": -19.5,
-      "total": 232.5,
-      "n_books": 6
-    },
-    {
       "id": "3e5d3f236671e27e0921615898f5f035",
       "home_team": "Los Angeles Clippers",
       "away_team": "Chicago Bulls",
       "commence_time": "2026-03-14T02:41:00Z",
-      "home_ml": -670,
-      "away_ml": 450,
+      "home_ml": null,
+      "away_ml": null,
       "home_spread": -10.5,
       "away_spread": 10.5,
-      "total": 236.5,
+      "total": 234.5,
       "n_books": 6
     },
     {
@@ -41,11 +17,11 @@
       "home_team": "Philadelphia 76ers",
       "away_team": "Brooklyn Nets",
       "commence_time": "2026-03-14T17:10:00Z",
-      "home_ml": -390,
-      "away_ml": 305,
-      "home_spread": -9.0,
-      "away_spread": 9.0,
-      "total": 215.5,
+      "home_ml": -380,
+      "away_ml": 302,
+      "home_spread": -8.5,
+      "away_spread": 8.5,
+      "total": 216.5,
       "n_books": 9
     },
     {
@@ -53,23 +29,23 @@
       "home_team": "Atlanta Hawks",
       "away_team": "Milwaukee Bucks",
       "commence_time": "2026-03-14T19:10:00Z",
-      "home_ml": -278,
+      "home_ml": -285,
       "away_ml": 225,
-      "home_spread": -8.0,
-      "away_spread": 8.0,
+      "home_spread": -7.5,
+      "away_spread": 7.5,
       "total": 231.0,
-      "n_books": 7
+      "n_books": 8
     },
     {
       "id": "385c8f2c3153a39f3b1864e324132599",
       "home_team": "San Antonio Spurs",
       "away_team": "Charlotte Hornets",
       "commence_time": "2026-03-14T19:40:00Z",
-      "home_ml": -235,
-      "away_ml": 195,
+      "home_ml": -240,
+      "away_ml": 200,
       "home_spread": -5.5,
       "away_spread": 5.5,
-      "total": 228.5,
+      "total": 229.0,
       "n_books": 9
     },
     {
@@ -78,10 +54,10 @@
       "away_team": "Washington Wizards",
       "commence_time": "2026-03-14T22:10:00Z",
       "home_ml": -2200,
-      "away_ml": 1100,
-      "home_spread": -20.0,
-      "away_spread": 20.0,
-      "total": 228.5,
+      "away_ml": 1075,
+      "home_spread": -19.5,
+      "away_spread": 19.5,
+      "total": 229.0,
       "n_books": 9
     },
     {
@@ -113,18 +89,18 @@
       "home_team": "Los Angeles Clippers",
       "away_team": "Sacramento Kings",
       "commence_time": "2026-03-15T02:40:00Z",
-      "home_ml": -770,
-      "away_ml": 540,
-      "home_spread": -12.5,
-      "away_spread": 12.5,
-      "total": 226.0,
-      "n_books": 4
+      "home_ml": -800,
+      "away_ml": 525,
+      "home_spread": -13.5,
+      "away_spread": 13.5,
+      "total": 229.5,
+      "n_books": 3
     }
   ],
   "date": "2026-03-14",
-  "n_games": 10,
-  "requests_remaining": 383,
+  "n_games": 8,
+  "requests_remaining": 349,
   "cached": false,
   "error": null,
-  "fetched_at": 1773458844.6822307
+  "fetched_at": 1773463910.9000773
 }

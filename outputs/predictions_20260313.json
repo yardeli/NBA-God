@@ -60,6 +60,18 @@
     "game_time": "2026-03-13T23:30Z"
   },
   {
+    "home_team": "Los Angeles Clippers",
+    "away_team": "Chicago Bulls",
+    "home_win_prob": 0.7846,
+    "away_win_prob": 0.2154,
+    "predicted_winner": "Los Angeles Clippers",
+    "confidence": "high",
+    "model_spread": 5.5,
+    "model_point_spread": "Los Angeles Clippers +5.5",
+    "game_id": "401810823",
+    "game_time": "2026-03-14T02:30Z"
+  },
+  {
     "home_team": "Indiana Pacers",
     "away_team": "New York Knicks",
     "home_win_prob": 0.7406,
@@ -82,18 +94,5 @@
     "model_point_spread": "Portland Trail Blazers -1.8",
     "game_id": "401810822",
     "game_time": "2026-03-14T02:00Z"
-  },
-  {
-    "home_team": "LA Clippers",
-    "away_team": "Chicago Bulls",
-    "error": "Team not found: 'LA Clippers'",
-    "home_win_prob": 0.5,
-    "away_win_prob": 0.5,
-    "predicted_winner": "LA Clippers",
-    "confidence": "low",
-    "model_spread": 0.0,
-    "model_point_spread": "PICK",
-    "game_id": "401810823",
-    "game_time": "2026-03-14T02:30Z"
   }
 ]

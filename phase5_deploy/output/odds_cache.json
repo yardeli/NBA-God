@@ -2,59 +2,43 @@
   "teams": [
     {
       "name": "Boston Celtics",
-      "best_odds": -2100,
-      "best_odds_fmt": "-2100",
-      "best_book": "DraftKings",
-      "implied_prob": 0.9545,
-      "fair_prob": 0.0958
-    },
-    {
-      "name": "Los Angeles Clippers",
-      "best_odds": -770,
-      "best_odds_fmt": "-770",
-      "best_book": "FanDuel",
-      "implied_prob": 0.8851,
-      "fair_prob": 0.0889
-    },
-    {
-      "name": "Philadelphia 76ers",
-      "best_odds": -370,
-      "best_odds_fmt": "-370",
-      "best_book": "Bovada",
-      "implied_prob": 0.7872,
-      "fair_prob": 0.079
-    },
-    {
-      "name": "Houston Rockets",
-      "best_odds": -335,
-      "best_odds_fmt": "-335",
-      "best_book": "Bovada",
-      "implied_prob": 0.7701,
-      "fair_prob": 0.0773
-    },
-    {
-      "name": "Atlanta Hawks",
-      "best_odds": -278,
-      "best_odds_fmt": "-278",
-      "best_book": "DraftKings",
-      "implied_prob": 0.7354,
-      "fair_prob": 0.0738
+      "best_odds": -2050,
+      "best_odds_fmt": "-2050",
+      "best_book": "LowVig.ag",
+      "implied_prob": 0.9535,
+      "fair_prob": 0.1152
     },
     {
       "name": "Portland Trail Blazers",
-      "best_odds": -250,
-      "best_odds_fmt": "-250",
-      "best_book": "MyBookie.ag",
-      "implied_prob": 0.7143,
-      "fair_prob": 0.0717
+      "best_odds": -1100,
+      "best_odds_fmt": "-1100",
+      "best_book": "Bovada",
+      "implied_prob": 0.9167,
+      "fair_prob": 0.1108
     },
     {
-      "name": "Minnesota Timberwolves",
-      "best_odds": -250,
-      "best_odds_fmt": "-250",
-      "best_book": "MyBookie.ag",
-      "implied_prob": 0.7143,
-      "fair_prob": 0.0717
+      "name": "Los Angeles Clippers",
+      "best_odds": -750,
+      "best_odds_fmt": "-750",
+      "best_book": "DraftKings",
+      "implied_prob": 0.8824,
+      "fair_prob": 0.1066
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "best_odds": -360,
+      "best_odds_fmt": "-360",
+      "best_book": "Bovada",
+      "implied_prob": 0.7826,
+      "fair_prob": 0.0946
+    },
+    {
+      "name": "Atlanta Hawks",
+      "best_odds": -275,
+      "best_odds_fmt": "-275",
+      "best_book": "BetMGM",
+      "implied_prob": 0.7333,
+      "fair_prob": 0.0886
     },
     {
       "name": "San Antonio Spurs",
@@ -62,15 +46,15 @@
       "best_odds_fmt": "-230",
       "best_book": "FanDuel",
       "implied_prob": 0.697,
-      "fair_prob": 0.07
+      "fair_prob": 0.0842
     },
     {
       "name": "Miami Heat",
-      "best_odds": -157,
-      "best_odds_fmt": "-157",
-      "best_book": "BetRivers",
-      "implied_prob": 0.6109,
-      "fair_prob": 0.0613
+      "best_odds": -155,
+      "best_odds_fmt": "-155",
+      "best_book": "LowVig.ag",
+      "implied_prob": 0.6078,
+      "fair_prob": 0.0734
     },
     {
       "name": "Denver Nuggets",
@@ -78,71 +62,63 @@
       "best_odds_fmt": "-139",
       "best_book": "BetRivers",
       "implied_prob": 0.5816,
-      "fair_prob": 0.0584
+      "fair_prob": 0.0703
     },
     {
       "name": "Los Angeles Lakers",
-      "best_odds": 125,
-      "best_odds_fmt": "+125",
-      "best_book": "Bovada",
-      "implied_prob": 0.4444,
-      "fair_prob": 0.0446
+      "best_odds": 127,
+      "best_odds_fmt": "+127",
+      "best_book": "LowVig.ag",
+      "implied_prob": 0.4405,
+      "fair_prob": 0.0532
     },
     {
       "name": "Orlando Magic",
-      "best_odds": 138,
-      "best_odds_fmt": "+138",
+      "best_odds": 142,
+      "best_odds_fmt": "+142",
       "best_book": "FanDuel",
-      "implied_prob": 0.4202,
-      "fair_prob": 0.0422
+      "implied_prob": 0.4132,
+      "fair_prob": 0.0499
     },
     {
       "name": "Charlotte Hornets",
-      "best_odds": 200,
-      "best_odds_fmt": "+200",
-      "best_book": "Bovada",
-      "implied_prob": 0.3333,
-      "fair_prob": 0.0335
+      "best_odds": 203,
+      "best_odds_fmt": "+203",
+      "best_book": "BetUS",
+      "implied_prob": 0.33,
+      "fair_prob": 0.0399
     },
     {
       "name": "Milwaukee Bucks",
-      "best_odds": 235,
-      "best_odds_fmt": "+235",
-      "best_book": "FanDuel",
-      "implied_prob": 0.2985,
-      "fair_prob": 0.03
-    },
-    {
-      "name": "Golden State Warriors",
       "best_odds": 240,
       "best_odds_fmt": "+240",
-      "best_book": "BetRivers",
+      "best_book": "FanDuel",
       "implied_prob": 0.2941,
-      "fair_prob": 0.0295
+      "fair_prob": 0.0355
     },
     {
       "name": "Brooklyn Nets",
-      "best_odds": 318,
-      "best_odds_fmt": "+318",
-      "best_book": "MyBookie.ag",
-      "implied_prob": 0.2392,
-      "fair_prob": 0.024
+      "best_odds": 310,
+      "best_odds_fmt": "+310",
+      "best_book": "FanDuel",
+      "implied_prob": 0.2439,
+      "fair_prob": 0.0295
+    },
+    {
+      "name": "Sacramento Kings",
+      "best_odds": 560,
+      "best_odds_fmt": "+560",
+      "best_book": "FanDuel",
+      "implied_prob": 0.1515,
+      "fair_prob": 0.0183
     },
     {
       "name": "Utah Jazz",
-      "best_odds": 360,
-      "best_odds_fmt": "+360",
-      "best_book": "DraftKings",
-      "implied_prob": 0.2174,
-      "fair_prob": 0.0218
-    },
-    {
-      "name": "Chicago Bulls",
-      "best_odds": 600,
-      "best_odds_fmt": "+600",
-      "best_book": "DraftKings",
-      "implied_prob": 0.1429,
-      "fair_prob": 0.0143
+      "best_odds": 650,
+      "best_odds_fmt": "+650",
+      "best_book": "Bovada",
+      "implied_prob": 0.1333,
+      "fair_prob": 0.0161
     },
     {
       "name": "Washington Wizards",
@@ -150,19 +126,19 @@
       "best_odds_fmt": "+1200",
       "best_book": "Bovada",
       "implied_prob": 0.0769,
-      "fair_prob": 0.0077
+      "fair_prob": 0.0093
     },
     {
-      "name": "New Orleans Pelicans",
-      "best_odds": 2200,
-      "best_odds_fmt": "+2200",
-      "best_book": "DraftKings",
-      "implied_prob": 0.0435,
-      "fair_prob": 0.0044
+      "name": "Chicago Bulls",
+      "best_odds": 2500,
+      "best_odds_fmt": "+2500",
+      "best_book": "FanDuel",
+      "implied_prob": 0.0385,
+      "fair_prob": 0.0047
     }
   ],
-  "requests_remaining": 427,
+  "requests_remaining": 367,
   "error": null,
   "cached": false,
-  "fetched_at": 1773456150.4921646
+  "fetched_at": 1773462525.151114
 }
