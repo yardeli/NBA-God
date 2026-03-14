@@ -1,0 +1,24 @@
+{
+  "top20": {
+    "diff_h2h_win_pct_z": 0.22990600764751434,
+    "diff_h2h_win_pct": 0.20428524911403656,
+    "home_away": 0.07969458401203156,
+    "h2h_games": 0.05854346230626106,
+    "diff_pythagorean_wp": 0.051632579416036606,
+    "diff_win_pct": 0.04859764128923416,
+    "diff_pythagorean_wp_z": 0.04421677067875862,
+    "diff_avg_margin": 0.036691565066576004,
+    "diff_avg_margin_z": 0.029074182733893394,
+    "diff_efg_pct_z": 0.016809646040201187,
+    "diff_back_to_back": 0.014573991298675537,
+    "diff_back_to_back_z": 0.012611557729542255,
+    "diff_win_pct_z": 0.012115705758333206,
+    "diff_efg_pct": 0.011821968480944633,
+    "diff_pts_pg_z": 0.011687059886753559,
+    "diff_rest_days_z": 0.01127584557980299,
+    "diff_rest_days": 0.011201412416994572,
+    "diff_opp_pts_pg_z": 0.011170551180839539,
+    "diff_win_streak_z": 0.011018245480954647,
+    "diff_win_streak": 0.010687455534934998
+  }
+}

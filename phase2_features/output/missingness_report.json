@@ -1,0 +1,169 @@
+{
+  "total_games": 21487,
+  "tier1_games": 21487,
+  "tier2_games": 19598,
+  "features": {
+    "win_pct": {
+      "tier": 1,
+      "era": "all",
+      "desc": "Season-to-date win% before this game"
+    },
+    "avg_margin": {
+      "tier": 1,
+      "era": "all",
+      "desc": "Average point margin season-to-date"
+    },
+    "pts_pg": {
+      "tier": 1,
+      "era": "all",
+      "desc": "Points per game season-to-date"
+    },
+    "opp_pts_pg": {
+      "tier": 1,
+      "era": "all",
+      "desc": "Opponent points per game season-to-date"
+    },
+    "games_played": {
+      "tier": 1,
+      "era": "all",
+      "desc": "Games played before this game"
+    },
+    "rest_days": {
+      "tier": 1,
+      "era": "all",
+      "desc": "Days since last game (capped at 10)"
+    },
+    "back_to_back": {
+      "tier": 1,
+      "era": "all",
+      "desc": "1 if playing second game in 2 days"
+    },
+    "win_streak": {
+      "tier": 1,
+      "era": "all",
+      "desc": "Current win streak (neg = losing)"
+    },
+    "momentum": {
+      "tier": 1,
+      "era": "all",
+      "desc": "Win% over last 5 games"
+    },
+    "home_away": {
+      "tier": 1,
+      "era": "all",
+      "desc": "1 if home team, 0 if away"
+    },
+    "h2h_win_pct": {
+      "tier": 1,
+      "era": "all",
+      "desc": "H2H win% in last 10 meetings"
+    },
+    "h2h_games": {
+      "tier": 1,
+      "era": "all",
+      "desc": "Total prior H2H games"
+    },
+    "efg_pct": {
+      "tier": 2,
+      "era": "1980+",
+      "desc": "Effective FG% (rolling)"
+    },
+    "to_rate": {
+      "tier": 2,
+      "era": "1980+",
+      "desc": "Turnover rate (rolling)"
+    },
+    "orb_rate": {
+      "tier": 2,
+      "era": "1980+",
+      "desc": "Offensive rebound rate (rolling)"
+    },
+    "ft_rate": {
+      "tier": 2,
+      "era": "1980+",
+      "desc": "Free throw rate FTM/FGA (rolling)"
+    },
+    "pace": {
+      "tier": 2,
+      "era": "1980+",
+      "desc": "Estimated possessions per game (rolling)"
+    },
+    "off_eff": {
+      "tier": 2,
+      "era": "1980+",
+      "desc": "Offensive efficiency pts/100pos (rolling)"
+    },
+    "def_eff": {
+      "tier": 2,
+      "era": "1980+",
+      "desc": "Defensive efficiency opp_pts/100pos (rolling)"
+    },
+    "net_eff": {
+      "tier": 3,
+      "era": "2000+",
+      "desc": "Net efficiency (off - def)"
+    },
+    "3pt_rate": {
+      "tier": 3,
+      "era": "2000+",
+      "desc": "3PA / FGA ratio (rolling)"
+    },
+    "ast_to": {
+      "tier": 3,
+      "era": "2000+",
+      "desc": "Assist-to-turnover ratio (rolling)"
+    },
+    "pythagorean_wp": {
+      "tier": 3,
+      "era": "2000+",
+      "desc": "Pythagorean win% (exponent=13.91 for NBA)"
+    }
+  },
+  "missingness_overall": {
+    "diff_win_pct": 0.0,
+    "diff_avg_margin": 0.0,
+    "diff_pts_pg": 0.0,
+    "diff_opp_pts_pg": 0.0,
+    "diff_rest_days": 0.0,
+    "diff_back_to_back": 0.0,
+    "diff_win_streak": 0.0,
+    "diff_momentum": 3.1,
+    "diff_h2h_win_pct": 2.1,
+    "diff_pythagorean_wp": 0.0,
+    "diff_efg_pct": 8.8,
+    "diff_to_rate": 100.0,
+    "diff_orb_rate": 100.0,
+    "diff_ft_rate": 8.8,
+    "diff_pace": 100.0,
+    "diff_off_eff": 100.0,
+    "diff_def_eff": 100.0,
+    "diff_net_eff": 100.0,
+    "diff_3pt_rate": 8.8,
+    "diff_ast_to": 100.0,
+    "diff_win_pct_z": 0.0,
+    "diff_avg_margin_z": 0.0,
+    "diff_pts_pg_z": 0.0,
+    "diff_opp_pts_pg_z": 0.0,
+    "diff_rest_days_z": 0.0,
+    "diff_back_to_back_z": 0.0,
+    "diff_win_streak_z": 0.0,
+    "diff_momentum_z": 3.1,
+    "diff_h2h_win_pct_z": 2.1,
+    "diff_pythagorean_wp_z": 0.0,
+    "diff_efg_pct_z": 8.8,
+    "diff_to_rate_z": 100.0,
+    "diff_orb_rate_z": 100.0,
+    "diff_ft_rate_z": 8.8,
+    "diff_pace_z": 100.0,
+    "diff_off_eff_z": 100.0,
+    "diff_def_eff_z": 100.0,
+    "diff_net_eff_z": 100.0,
+    "diff_3pt_rate_z": 8.8,
+    "diff_ast_to_z": 100.0
+  },
+  "games_by_era": {
+    "pace_space": 13274,
+    "analytics": 8213
+  },
+  "label_balance": 0.4924
+}

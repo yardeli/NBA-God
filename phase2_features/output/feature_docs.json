@@ -1,0 +1,117 @@
+{
+  "win_pct": {
+    "tier": 1,
+    "era": "all",
+    "desc": "Season-to-date win% before this game"
+  },
+  "avg_margin": {
+    "tier": 1,
+    "era": "all",
+    "desc": "Average point margin season-to-date"
+  },
+  "pts_pg": {
+    "tier": 1,
+    "era": "all",
+    "desc": "Points per game season-to-date"
+  },
+  "opp_pts_pg": {
+    "tier": 1,
+    "era": "all",
+    "desc": "Opponent points per game season-to-date"
+  },
+  "games_played": {
+    "tier": 1,
+    "era": "all",
+    "desc": "Games played before this game"
+  },
+  "rest_days": {
+    "tier": 1,
+    "era": "all",
+    "desc": "Days since last game (capped at 10)"
+  },
+  "back_to_back": {
+    "tier": 1,
+    "era": "all",
+    "desc": "1 if playing second game in 2 days"
+  },
+  "win_streak": {
+    "tier": 1,
+    "era": "all",
+    "desc": "Current win streak (neg = losing)"
+  },
+  "momentum": {
+    "tier": 1,
+    "era": "all",
+    "desc": "Win% over last 5 games"
+  },
+  "home_away": {
+    "tier": 1,
+    "era": "all",
+    "desc": "1 if home team, 0 if away"
+  },
+  "h2h_win_pct": {
+    "tier": 1,
+    "era": "all",
+    "desc": "H2H win% in last 10 meetings"
+  },
+  "h2h_games": {
+    "tier": 1,
+    "era": "all",
+    "desc": "Total prior H2H games"
+  },
+  "efg_pct": {
+    "tier": 2,
+    "era": "1980+",
+    "desc": "Effective FG% (rolling)"
+  },
+  "to_rate": {
+    "tier": 2,
+    "era": "1980+",
+    "desc": "Turnover rate (rolling)"
+  },
+  "orb_rate": {
+    "tier": 2,
+    "era": "1980+",
+    "desc": "Offensive rebound rate (rolling)"
+  },
+  "ft_rate": {
+    "tier": 2,
+    "era": "1980+",
+    "desc": "Free throw rate FTM/FGA (rolling)"
+  },
+  "pace": {
+    "tier": 2,
+    "era": "1980+",
+    "desc": "Estimated possessions per game (rolling)"
+  },
+  "off_eff": {
+    "tier": 2,
+    "era": "1980+",
+    "desc": "Offensive efficiency pts/100pos (rolling)"
+  },
+  "def_eff": {
+    "tier": 2,
+    "era": "1980+",
+    "desc": "Defensive efficiency opp_pts/100pos (rolling)"
+  },
+  "net_eff": {
+    "tier": 3,
+    "era": "2000+",
+    "desc": "Net efficiency (off - def)"
+  },
+  "3pt_rate": {
+    "tier": 3,
+    "era": "2000+",
+    "desc": "3PA / FGA ratio (rolling)"
+  },
+  "ast_to": {
+    "tier": 3,
+    "era": "2000+",
+    "desc": "Assist-to-turnover ratio (rolling)"
+  },
+  "pythagorean_wp": {
+    "tier": 3,
+    "era": "2000+",
+    "desc": "Pythagorean win% (exponent=13.91 for NBA)"
+  }
+}

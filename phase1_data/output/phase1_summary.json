@@ -1,0 +1,27 @@
+{
+  "total_games": 21700,
+  "season_range": {
+    "earliest": 2010,
+    "latest": 2025,
+    "total_seasons": 16
+  },
+  "games_by_type": {
+    "regular": 20452,
+    "first_round": 1248
+  },
+  "games_by_era": {
+    "pace_space": 13448,
+    "analytics": 8252
+  },
+  "games_by_source": {
+    "espn": 21700
+  },
+  "data_tier_counts": {
+    "2": 20364,
+    "3": 1336
+  },
+  "games_by_decade": {
+    "2010s": 13862,
+    "2020s": 7838
+  }
+}

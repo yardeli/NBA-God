@@ -1,0 +1,99 @@
+[
+  {
+    "home_team": "Dallas Mavericks",
+    "away_team": "Cleveland Cavaliers",
+    "home_win_prob": 0.0567,
+    "away_win_prob": 0.9433,
+    "predicted_winner": "Cleveland Cavaliers",
+    "confidence": "high",
+    "model_spread": -8.9,
+    "model_point_spread": "Dallas Mavericks -8.9",
+    "game_id": "401810820",
+    "game_time": "2026-03-13T23:30Z"
+  },
+  {
+    "home_team": "Houston Rockets",
+    "away_team": "New Orleans Pelicans",
+    "home_win_prob": 0.9377,
+    "away_win_prob": 0.0623,
+    "predicted_winner": "Houston Rockets",
+    "confidence": "high",
+    "model_spread": 8.7,
+    "model_point_spread": "Houston Rockets +8.7",
+    "game_id": "401810819",
+    "game_time": "2026-03-14T00:00Z"
+  },
+  {
+    "home_team": "Toronto Raptors",
+    "away_team": "Phoenix Suns",
+    "home_win_prob": 0.1177,
+    "away_win_prob": 0.8823,
+    "predicted_winner": "Phoenix Suns",
+    "confidence": "high",
+    "model_spread": -7.5,
+    "model_point_spread": "Toronto Raptors -7.5",
+    "game_id": "401810818",
+    "game_time": "2026-03-13T23:30Z"
+  },
+  {
+    "home_team": "Golden State Warriors",
+    "away_team": "Minnesota Timberwolves",
+    "home_win_prob": 0.1213,
+    "away_win_prob": 0.8787,
+    "predicted_winner": "Minnesota Timberwolves",
+    "confidence": "high",
+    "model_spread": -7.5,
+    "model_point_spread": "Golden State Warriors -7.5",
+    "game_id": "401810821",
+    "game_time": "2026-03-14T02:00Z"
+  },
+  {
+    "home_team": "Detroit Pistons",
+    "away_team": "Memphis Grizzlies",
+    "home_win_prob": 0.1248,
+    "away_win_prob": 0.8752,
+    "predicted_winner": "Memphis Grizzlies",
+    "confidence": "high",
+    "model_spread": -7.4,
+    "model_point_spread": "Detroit Pistons -7.4",
+    "game_id": "401810816",
+    "game_time": "2026-03-13T23:30Z"
+  },
+  {
+    "home_team": "Indiana Pacers",
+    "away_team": "New York Knicks",
+    "home_win_prob": 0.7406,
+    "away_win_prob": 0.2594,
+    "predicted_winner": "Indiana Pacers",
+    "confidence": "high",
+    "model_spread": 4.6,
+    "model_point_spread": "Indiana Pacers +4.6",
+    "game_id": "401810817",
+    "game_time": "2026-03-13T23:30Z"
+  },
+  {
+    "home_team": "Portland Trail Blazers",
+    "away_team": "Utah Jazz",
+    "home_win_prob": 0.4029,
+    "away_win_prob": 0.5971,
+    "predicted_winner": "Utah Jazz",
+    "confidence": "medium",
+    "model_spread": -1.8,
+    "model_point_spread": "Portland Trail Blazers -1.8",
+    "game_id": "401810822",
+    "game_time": "2026-03-14T02:00Z"
+  },
+  {
+    "home_team": "LA Clippers",
+    "away_team": "Chicago Bulls",
+    "error": "Team not found: 'LA Clippers'",
+    "home_win_prob": 0.5,
+    "away_win_prob": 0.5,
+    "predicted_winner": "LA Clippers",
+    "confidence": "low",
+    "model_spread": 0.0,
+    "model_point_spread": "PICK",
+    "game_id": "401810823",
+    "game_time": "2026-03-14T02:30Z"
+  }
+]

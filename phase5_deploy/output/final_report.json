@@ -1,0 +1,26 @@
+{
+  "project": "NBA-God",
+  "description": "NBA Game Prediction Engine (1946-2025)",
+  "accuracy": 0.9278666212997618,
+  "accuracy_95ci": {
+    "mean": 0.9279121469887717,
+    "ci_lo": 0.9240558012929568,
+    "ci_hi": 0.9322218441646819
+  },
+  "calibration": {
+    "ece": 0.04114113486834268,
+    "mce": 0.11500729403253329
+  },
+  "top_features": [
+    "diff_h2h_win_pct",
+    "diff_h2h_win_pct_z",
+    "h2h_games",
+    "diff_win_streak_z",
+    "diff_ft_rate_z",
+    "diff_win_pct_z",
+    "diff_pts_pg_z",
+    "diff_3pt_rate",
+    "diff_efg_pct",
+    "diff_opp_pts_pg_z"
+  ]
+}

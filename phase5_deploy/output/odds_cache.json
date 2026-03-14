@@ -1,0 +1,168 @@
+{
+  "teams": [
+    {
+      "name": "Boston Celtics",
+      "best_odds": -2100,
+      "best_odds_fmt": "-2100",
+      "best_book": "DraftKings",
+      "implied_prob": 0.9545,
+      "fair_prob": 0.0958
+    },
+    {
+      "name": "Los Angeles Clippers",
+      "best_odds": -770,
+      "best_odds_fmt": "-770",
+      "best_book": "FanDuel",
+      "implied_prob": 0.8851,
+      "fair_prob": 0.0889
+    },
+    {
+      "name": "Philadelphia 76ers",
+      "best_odds": -370,
+      "best_odds_fmt": "-370",
+      "best_book": "Bovada",
+      "implied_prob": 0.7872,
+      "fair_prob": 0.079
+    },
+    {
+      "name": "Houston Rockets",
+      "best_odds": -335,
+      "best_odds_fmt": "-335",
+      "best_book": "Bovada",
+      "implied_prob": 0.7701,
+      "fair_prob": 0.0773
+    },
+    {
+      "name": "Atlanta Hawks",
+      "best_odds": -278,
+      "best_odds_fmt": "-278",
+      "best_book": "DraftKings",
+      "implied_prob": 0.7354,
+      "fair_prob": 0.0738
+    },
+    {
+      "name": "Portland Trail Blazers",
+      "best_odds": -250,
+      "best_odds_fmt": "-250",
+      "best_book": "MyBookie.ag",
+      "implied_prob": 0.7143,
+      "fair_prob": 0.0717
+    },
+    {
+      "name": "Minnesota Timberwolves",
+      "best_odds": -250,
+      "best_odds_fmt": "-250",
+      "best_book": "MyBookie.ag",
+      "implied_prob": 0.7143,
+      "fair_prob": 0.0717
+    },
+    {
+      "name": "San Antonio Spurs",
+      "best_odds": -230,
+      "best_odds_fmt": "-230",
+      "best_book": "FanDuel",
+      "implied_prob": 0.697,
+      "fair_prob": 0.07
+    },
+    {
+      "name": "Miami Heat",
+      "best_odds": -157,
+      "best_odds_fmt": "-157",
+      "best_book": "BetRivers",
+      "implied_prob": 0.6109,
+      "fair_prob": 0.0613
+    },
+    {
+      "name": "Denver Nuggets",
+      "best_odds": -139,
+      "best_odds_fmt": "-139",
+      "best_book": "BetRivers",
+      "implied_prob": 0.5816,
+      "fair_prob": 0.0584
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "best_odds": 125,
+      "best_odds_fmt": "+125",
+      "best_book": "Bovada",
+      "implied_prob": 0.4444,
+      "fair_prob": 0.0446
+    },
+    {
+      "name": "Orlando Magic",
+      "best_odds": 138,
+      "best_odds_fmt": "+138",
+      "best_book": "FanDuel",
+      "implied_prob": 0.4202,
+      "fair_prob": 0.0422
+    },
+    {
+      "name": "Charlotte Hornets",
+      "best_odds": 200,
+      "best_odds_fmt": "+200",
+      "best_book": "Bovada",
+      "implied_prob": 0.3333,
+      "fair_prob": 0.0335
+    },
+    {
+      "name": "Milwaukee Bucks",
+      "best_odds": 235,
+      "best_odds_fmt": "+235",
+      "best_book": "FanDuel",
+      "implied_prob": 0.2985,
+      "fair_prob": 0.03
+    },
+    {
+      "name": "Golden State Warriors",
+      "best_odds": 240,
+      "best_odds_fmt": "+240",
+      "best_book": "BetRivers",
+      "implied_prob": 0.2941,
+      "fair_prob": 0.0295
+    },
+    {
+      "name": "Brooklyn Nets",
+      "best_odds": 318,
+      "best_odds_fmt": "+318",
+      "best_book": "MyBookie.ag",
+      "implied_prob": 0.2392,
+      "fair_prob": 0.024
+    },
+    {
+      "name": "Utah Jazz",
+      "best_odds": 360,
+      "best_odds_fmt": "+360",
+      "best_book": "DraftKings",
+      "implied_prob": 0.2174,
+      "fair_prob": 0.0218
+    },
+    {
+      "name": "Chicago Bulls",
+      "best_odds": 600,
+      "best_odds_fmt": "+600",
+      "best_book": "DraftKings",
+      "implied_prob": 0.1429,
+      "fair_prob": 0.0143
+    },
+    {
+      "name": "Washington Wizards",
+      "best_odds": 1200,
+      "best_odds_fmt": "+1200",
+      "best_book": "Bovada",
+      "implied_prob": 0.0769,
+      "fair_prob": 0.0077
+    },
+    {
+      "name": "New Orleans Pelicans",
+      "best_odds": 2200,
+      "best_odds_fmt": "+2200",
+      "best_book": "DraftKings",
+      "implied_prob": 0.0435,
+      "fair_prob": 0.0044
+    }
+  ],
+  "requests_remaining": 427,
+  "error": null,
+  "cached": false,
+  "fetched_at": 1773456150.4921646
+}
