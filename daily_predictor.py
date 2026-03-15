@@ -2,7 +2,7 @@
 NBA-God — Daily Predictor
 ===========================
 Generates predictions for today's NBA games with:
-  - Win probability (ensemble: 65% XGBoost + 35% Logistic Regression)
+  - Win probability (ensemble: 80% XGBoost + 20% Logistic Regression)
   - Point spread via log-odds x NBA_SIGMA
   - Over/under total estimation
   - Edge calculation vs market odds

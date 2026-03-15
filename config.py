@@ -87,8 +87,8 @@ LOGISTIC_PARAMS = {
     "random_state": 42,
 }
 
-ENSEMBLE_WEIGHT_XGB = 0.65
-ENSEMBLE_WEIGHT_LR = 0.35
+ENSEMBLE_WEIGHT_XGB = 0.80  # Phase 2 optimization: 80% XGBoost, 20% LR (Brier: 0.16374)
+ENSEMBLE_WEIGHT_LR = 0.20   # Better probability calibration at extremes
 
 # ─── Rolling Window ─────────────────────────────────────────────────────────
 ROLLING_WINDOW = 10   # Games for rolling averages (82-game season)
